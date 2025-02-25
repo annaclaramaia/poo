@@ -1,4 +1,4 @@
-import exe2.Cliente;
+import src.exe2.Cliente;
 
 public class MainCliente {
     public static void main(String[] args) {

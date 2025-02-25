@@ -1,4 +1,4 @@
-package exe2;
+package src.exe2;
 
 import javax.swing.*;
 
